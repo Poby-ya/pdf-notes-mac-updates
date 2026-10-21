@@ -17,7 +17,7 @@
 
 필기하면서 필요한 동작을 정하고 AI와 함께 구현한 뒤, 직접 사용·검증하며 개선했습니다. 메모를 만든 직후 바로 입력할 수 있게 고치는 등 작은 조작의 불편도 다듬었습니다.
 
-배포 이후의 변경 내용과 버전 간 주의사항은 **[릴리스 기록](https://github.com/Poby-ya/pdf-notes-mac-updates/releases)**에서 확인할 수 있습니다.
+배포 이후의 변경 내용과 버전 간 주의사항은 [릴리스 기록](https://github.com/Poby-ya/pdf-notes-mac-updates/releases)에서 확인할 수 있습니다.
 
 ## 둘러보기와 설치
 
